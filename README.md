@@ -119,17 +119,17 @@ Edit
 git clone https://github.com/MouryaSagar17/AI-Powered-Health-Assistant.git
 cd AI-Powered-Health-Assistant
 ```
-**2. Install Dependencies
+**2. Install Dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
-**3. Run the Chatbot
+**3. Run the Chatbot**
 
 ```bash
 streamlit run main.py
 ```
-**4. Access in Browser
+**4. Access in Browser**
 Open: http://localhost:8501
 
 # 🔮 Future Enhancements
